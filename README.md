@@ -11,7 +11,13 @@ This repository contains the game space invader made using pygame. <br>
 4. Open the main.py file or SpaceInvader.ipynb file.
 5. Now, the game can be played.
 
-![image](https://user-images.githubusercontent.com/51916219/162880710-4d97cd91-5102-4cc4-b0b1-cf6c3e168600.png)
+![pic2](https://user-images.githubusercontent.com/51916219/162883313-2772afbb-335c-4e1f-bacb-b3d513c66b10.PNG)
+![pic1](https://user-images.githubusercontent.com/51916219/162883424-d52540bc-3a46-41d5-acda-a645588457b7.PNG)
+
+
+## Gameplay
+
+![SamplePlay](https://user-images.githubusercontent.com/51916219/162883462-5443cd0d-be3d-45b9-8ac0-742c138ddd27.gif)
 
 
 ### How to install Python
