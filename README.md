@@ -4,7 +4,7 @@ This repository contains the game space invader made using pygame. <br>
 ## How to run the Space Invader Game
 1. Install Python on your Personal Computer.
 2. You can also install Anaconda and Jupyter Notebook for easily running the ipynb notebook contained in this repository.
-3. Install the following modules - 
+3. Make sure that the following modules are available - 
       a) pygame
       b) math
       c) random
@@ -22,3 +22,15 @@ Documentation of installing anaconda is available in the following link - https:
 
 ### How to install Jupyter Notebook
 Visit the following link to install the Jupyter notebook - https://docs.jupyter.org/en/latest/install/notebook-classic.html
+
+### How to install pygame Module
+Pygame can be installed by viewing the instructions given in the link - https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/
+
+### How to install math Module
+the math module comes packaged with the standard Python installation.  <br>
+So, it is a built-in Python module, and to use it you just need to import it. <br>
+Printing the type() of math will tell you that it is a module.
+
+### How to install random Module
+Random module is already installed in Python. <br>
+You just need to import random module in your program and work accordingly.
