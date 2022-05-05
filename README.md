@@ -1,5 +1,6 @@
 # SpaceInvader
 This repository contains the game space invader made using pygame. <br>
+The objective of SpaceInvader is to destroy attacking alien spacecraft.
 
 ## How to run the Space Invader Game
 1. Install Python on your Personal Computer.
